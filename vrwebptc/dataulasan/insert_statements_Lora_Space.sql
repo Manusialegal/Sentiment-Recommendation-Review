@@ -1,0 +1,51 @@
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Yuliana rahmawati', 4, '1. Location near the Andi Makkasau field. Downstairs there is a barbershop. Upstairs you can see the view of the field.
+
+2. Order evaluation bread and tropic boost juice. Everything tastes delicious and nothing disappoints. Moreover, I think the price is relatively cheap. Especially for Tropical Boost, it feels fresh because of the mixture of mango, pineapple and coconut water.
+
+3. In my opinion, the minus is because there are a lot of empty menus. Even though I came on the weekend, especially many juices and drinks were not available when I came.
+
+4. I also think the place is aesthetic. There are lots of unique photo spots if you like taking photos.', 'Beverages', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Asha Syamsuddin', 4, 'Located on Jl. Karaeng Burane (south of Andi Makkasau Field) precisely next to Yamaha Raya Motor Parepare. The place is quite fun to hang out with friends or family.  The place is also quite Instagrammable. It looks like they are carrying out repairs/renovations at the top, so that visitors don''t get rained on when hanging out in this place.  Service is okay, friendly. The menu offered is also quite varied. It tastes delicious and the price is affordable.', 'Duo', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Hendriantor Tandungan', 4, 'Located in the Parepare city square, Jalan Karaeng Buane. Right opposite the Andi Makassau field. Provides a variety of food and drink. Good service, the atmosphere is also good. Only the parking space is a bit narrow', 'Food', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Anniecha usman', 5, 'It''s a cozy place to hang out with friends for a long time. Lots of food and drink choices.
+Fast and friendly service.
+But in the afternoon it feels quite stinging on the roof hahaha', 'Afternoon', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Novita Sugiestian', 4, 'A comfortable place to relax or work on assignments, the menu is also delicious, I like the moccacino the most, better, the fried meatballs are also delicious 😁', 'Chill', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Arini adelia', 5, 'The place is quite cozy, lots of good photo spots like other cafes. Good service with standard prices. Will come back next time', 'Food', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('mega mahesa karya', 5, 'the place is cool, the coffee and food are also recommended...', 'Chill', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Abdul Gafur', 5, 'Getting a haircut here is really good... Mas Agus or Mas Fredi would be my choice for getting a haircut here...', 'Umum', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Rudi Spiderman Hartono', 5, 'The place is instagrammable, suitable for millennials who like hanging out and taking photos', 'Umum', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Klowi', 5, 'with a strategic location in the heart of the city? the atmosphere is really comfortable. Affordable prices and delicious taste, fast and helpful service. There are only 2 minuses, firstly this cafe is not very large but enough to accommodate a medium scale (around 40 people max) and secondly this cafe is not recommended for hanging out when it rains, the concept without a roof will make everything messy. additional point, this cafe has a barber too and once again I want to say that the waiters here are all very friendly, even the parking attendants too hahaha~', 'Food', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Nurfudua Nigsih', 5, 'Cool photo spot, recommended menu.', 'Chill', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Eka Nofita Rian Ningsi', 5, 'The place is very comfortable and clean. The food and drink are also delicious.', 'Food', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('adell kurma', 5, 'Good. I think it''s not bad, there''s lots of room', 'Umum', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('St.Nur Syamsiah', 5, 'the place is comfortable and suitable for families', 'Umum', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Muhammad Sudwikatmono', 5, 'The cafe is good, the barber is also good', 'Umum', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Hariyandi Setiawan', 5, 'As desired and neatly cut', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Muh Nabil Nabil', 5, 'Excellent', 'Umum', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('SEE - JAYAD9', 5, 'Happy hanging out here', 'Umum', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('AHMAD IRFANDI', 5, 'this is great', 'Umum', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Muhammad Fachri', 5, 'Excellent', 'Umum', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Kucing Kucing', 5, 'good place to hangout with your friends, good atmosphere', 'Group', 'Positif', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('rifki rahadian', 5, 'convenient place', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('fuad', 1, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Randi Kurniawan', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('GAFUR MADRIDISTA', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Syarif Ompo', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('ana anaanniza', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('RATMI', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Rep Faceman', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Andi Rahim Hakkar', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('ingga wahyu', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('skina rmdhani', 1, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('aufar rifky fauzi', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Nuur Muthmainna', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Nurfadillah', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Suharni Yusuf', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Nur azzarima', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Ari Setiawan', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Nuur Ainun', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Allung Allung', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Winar Afriyani', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Rahma Tahir', 5, '-', 'Umum', 'Netral', 'Lora Space');
+INSERT INTO reviews (nama_pengulas, rating_bintang, teks_ulasan, topik_utama, sentimen, nama_cafe) VALUES ('Kasmawati', 5, '-', 'Umum', 'Netral', 'Lora Space');
